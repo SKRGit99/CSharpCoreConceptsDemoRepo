@@ -1,0 +1,14 @@
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\bin\Debug\net9.0\CSharpCoreConcepts.exe
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\bin\Debug\net9.0\CSharpCoreConcepts.deps.json
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\bin\Debug\net9.0\CSharpCoreConcepts.runtimeconfig.json
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\bin\Debug\net9.0\CSharpCoreConcepts.dll
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\bin\Debug\net9.0\CSharpCoreConcepts.pdb
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.AssemblyInfoInputs.cache
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.AssemblyInfo.cs
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.csproj.CoreCompileInputs.cache
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.dll
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\refint\CSharpCoreConcepts.dll
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.pdb
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.genruntimeconfig.cache
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\ref\CSharpCoreConcepts.dll
