@@ -7,6 +7,7 @@ D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSh
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.AssemblyInfoInputs.cache
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.AssemblyInfo.cs
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.csproj.CoreCompileInputs.cache
+D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.sourcelink.json
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.dll
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\refint\CSharpCoreConcepts.dll
 D:\CSharpCoreConcepts\CSharpCoreConcepts\CSharpCoreConcepts\obj\Debug\net9.0\CSharpCoreConcepts.pdb
