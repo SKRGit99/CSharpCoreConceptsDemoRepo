@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpCoreConcepts
 {
-    public class AccessSpecifiers01: AccessSpecifiers
+    public class AccessSpecifiersUsingInheritance: AccessSpecifiersIntroduction
     {
 
         /* 
@@ -28,7 +28,7 @@ namespace CSharpCoreConcepts
         {
             /*  Here AccessSpecifiers01 Class is inheriting from the Base Class AccessSpecifiers.*/
 
-            AccessSpecifiers01 acc01 = new AccessSpecifiers01();
+            AccessSpecifiersUsingInheritance acc01 = new AccessSpecifiersUsingInheritance();
 
 
             /*

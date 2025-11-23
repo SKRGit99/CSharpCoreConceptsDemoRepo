@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\multithreadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\multithreadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\csharpintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\csharpintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\testarraydivion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\testarraydivion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\accessspecifiersusinginheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\accessspecifiersusinginheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\loopsandarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\loopsandarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|d:\\csharpcoreconcepts\\csharpcoreconcepts\\csharpcoreconcepts\\accessspecifiersintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B07FD64-7E1D-4149-AB3A-06E9E56868C3}|CSharpCoreConcepts\\CSharpCoreConcepts.csproj|solutionrelative:csharpcoreconcepts\\accessspecifiersintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +39,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MultiThreadingDemo.cs",
-              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\MultiThreadingDemo.cs",
-              "RelativeDocumentMoniker": "CSharpCoreConcepts\\MultiThreadingDemo.cs",
-              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\MultiThreadingDemo.cs",
-              "RelativeToolTip": "CSharpCoreConcepts\\MultiThreadingDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Title": "CSharpIntroduction.cs",
+              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpIntroduction.cs",
+              "RelativeDocumentMoniker": "CSharpCoreConcepts\\CSharpIntroduction.cs",
+              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpIntroduction.cs",
+              "RelativeToolTip": "CSharpCoreConcepts\\CSharpIntroduction.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwIkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T11:06:00.077Z",
+              "WhenOpened": "2025-11-23T14:30:07.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestArrayDivion.cs",
-              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\TestArrayDivion.cs",
-              "RelativeDocumentMoniker": "CSharpCoreConcepts\\TestArrayDivion.cs",
-              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\TestArrayDivion.cs",
-              "RelativeToolTip": "CSharpCoreConcepts\\TestArrayDivion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AccessSpecifiersUsingInheritance.cs",
+              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\AccessSpecifiersUsingInheritance.cs",
+              "RelativeDocumentMoniker": "CSharpCoreConcepts\\AccessSpecifiersUsingInheritance.cs",
+              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\AccessSpecifiersUsingInheritance.cs",
+              "RelativeToolTip": "CSharpCoreConcepts\\AccessSpecifiersUsingInheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T11:05:17.118Z",
+              "WhenOpened": "2025-11-23T14:28:55.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoopsAndArrays.cs",
-              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\LoopsAndArrays.cs",
-              "RelativeDocumentMoniker": "CSharpCoreConcepts\\LoopsAndArrays.cs",
-              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\LoopsAndArrays.cs",
-              "RelativeToolTip": "CSharpCoreConcepts\\LoopsAndArrays.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwI4AAAAdAAAAAAAAAA==",
+              "Title": "AccessSpecifiersIntroduction.cs",
+              "DocumentMoniker": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\AccessSpecifiersIntroduction.cs",
+              "RelativeDocumentMoniker": "CSharpCoreConcepts\\AccessSpecifiersIntroduction.cs",
+              "ToolTip": "D:\\CSharpCoreConcepts\\CSharpCoreConcepts\\CSharpCoreConcepts\\AccessSpecifiersIntroduction.cs",
+              "RelativeToolTip": "CSharpCoreConcepts\\AccessSpecifiersIntroduction.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwJYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T22:18:40.274Z",
+              "WhenOpened": "2025-11-23T14:25:53.58Z",
               "EditorCaption": ""
             }
           ]

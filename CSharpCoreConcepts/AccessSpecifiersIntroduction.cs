@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpCoreConcepts
 {
-    public class AccessSpecifiers
+    public class AccessSpecifiersIntroduction
     {
         /* 
                 
@@ -139,7 +139,7 @@ namespace CSharpCoreConcepts
 
         static void Main(string[] args)
         {
-            AccessSpecifiers acc = new AccessSpecifiers();
+            AccessSpecifiersIntroduction acc = new AccessSpecifiersIntroduction();
             acc.displaySchoolDetails();
             acc.displayStudentResult();
             acc.displayClassTeacherDetails();
